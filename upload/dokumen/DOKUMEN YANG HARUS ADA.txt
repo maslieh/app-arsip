@@ -1,0 +1,10 @@
+1.inventarisir user name dan pasword palikai dari eksternal
+	a. feeder
+	b. sapto
+	c. simantu
+	d. silenkerma
+
+2.inventarisir user name dan pasword palikai dari eksternal
+3	a. siakad
+	b. webserver
+4.
